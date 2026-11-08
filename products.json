@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "name": "Olla arrocera clásica",
+    "model": "CKSTRC1700R",
+    "category": "Cocina",
+    "spec": "1.8 L · 10 tazas",
+    "description": "Olla antiadherente removible; función automática para mantener caliente; tapa de vidrio refractario con salida de vapor.",
+    "image": "assets/p01.png"
+  },
+  {
+    "id": 2,
+    "name": "Olla arrocera multiusos",
+    "model": "CKSTRC6033",
+    "category": "Cocina",
+    "spec": "2.6 L · hasta 15 tazas",
+    "description": "Permite sofreír alimentos y aderezos; cocción rápida y uniforme; tazón antiadherente removible; vaporera superior.",
+    "image": "assets/p02.png"
+  },
+  {
+    "id": 3,
+    "name": "Olla arrocera multiusos",
+    "model": "CKSTRC7030S",
+    "category": "Cocina",
+    "spec": "12 tazas de arroz cocido",
+    "description": "Función sofrito y mantener caliente; bandeja de vapor, cucharón y taza medidora.",
+    "image": "assets/p03.png"
+  },
+  {
+    "id": 4,
+    "name": "Olla arrocera DiamondForce",
+    "model": "CKSTRC610DFBLK-053",
+    "category": "Cocina",
+    "spec": "1.8 L · 10 tazas",
+    "description": "Recubrimiento antiadherente DiamondForce reforzado con partículas de diamante; incluye QR para recetario.",
+    "image": "assets/p04.png"
+  },
+  {
+    "id": 5,
+    "name": "Licuadora clásica",
+    "model": "BLSTBPST",
+    "category": "Cocina",
+    "spec": "1000 W pico · 6 tazas",
+    "description": "Motor 6 veces más durable; acople metálico 10 veces más fuerte; vaso de vidrio.",
+    "image": "assets/p05.png"
+  },
+  {
+    "id": 6,
+    "name": "Licuadora clásica",
+    "model": "BLST412R",
+    "category": "Cocina",
+    "spec": "700 W · 1.25 L",
+    "description": "3 velocidades; cuchillas de acero inoxidable para triturar hielo; perilla ergonómica y acople metálico.",
+    "image": "assets/p06.png"
+  },
+  {
+    "id": 7,
+    "name": "Licuadora clásica",
+    "model": "BLST4655",
+    "category": "Cocina",
+    "spec": "1000 W · 1.25 L",
+    "description": "3 velocidades; vaso de vidrio resistente a choques térmicos; cuchilla trituradora de hielo.",
+    "image": "assets/p07.png"
+  },
+  {
+    "id": 8,
+    "name": "Batidora de mano y pedestal",
+    "model": "FPSTHS3612",
+    "category": "Cocina",
+    "spec": "3.7 L · 6 velocidades",
+    "description": "Tazón de acero inoxidable; convertible a batidora de mano; movimiento giratorio para mezcla uniforme.",
+    "image": "assets/p08.png"
+  },
+  {
+    "id": 9,
+    "name": "Waflera eléctrica",
+    "model": "FZ-812WF",
+    "category": "Cocina",
+    "spec": "4 waffles · 1400 W",
+    "description": "Placas antiadherentes libres de PFOA; luces de funcionamiento; asa fría y borde antiderrame.",
+    "image": "assets/p09.png"
+  },
+  {
+    "id": 10,
+    "name": "Horno microondas cromado",
+    "model": "MWI-20TCRP",
+    "category": "Cocina",
+    "spec": "20 L · 700 W",
+    "description": "8 funciones; 10 niveles de potencia; plato giratorio; panel digital y bloqueo de seguridad.",
+    "image": "assets/p10.png"
+  },
+  {
+    "id": 11,
+    "name": "Horno microondas negro",
+    "model": "HMM-20N",
+    "category": "Cocina",
+    "spec": "20 L · 700 W",
+    "description": "6 menús automáticos; 11 niveles de potencia; panel digital y bloqueo de seguridad.",
+    "image": "assets/p11.png"
+  },
+  {
+    "id": 12,
+    "name": "Plancha seca clásica",
+    "model": "GCSTBV4119",
+    "category": "Hogar",
+    "spec": "1000 W · 6 temperaturas",
+    "description": "Base de aluminio pulido; control de temperatura según tejido; plancha convencional sin vapor.",
+    "image": "assets/p12.png"
+  },
+  {
+    "id": 13,
+    "name": "Plancha de vapor liviana",
+    "model": "GCSTBS3802-53",
+    "category": "Hogar",
+    "spec": "1200 W · tanque 160 ml",
+    "description": "Vapor continuo; suela antiadherente; regulador de vapor; cable giratorio.",
+    "image": "assets/p13.png"
+  },
+  {
+    "id": 14,
+    "name": "Extractor de jugo",
+    "model": "FPSTJE318R",
+    "category": "Cocina",
+    "spec": "600 W · 2 velocidades",
+    "description": "Boca amplia; filtro de acero inoxidable; jarra recolectora; depósito de pulpa; piezas desmontables.",
+    "image": "assets/p14.png"
+  },
+  {
+    "id": 15,
+    "name": "Extractor de jugo",
+    "model": "FPSTJE320R",
+    "category": "Cocina",
+    "spec": "600 W · 1.25 L",
+    "description": "2 velocidades y pulsador; separador de espuma; boca extragrande; brazo de seguridad.",
+    "image": "assets/p15.png"
+  },
+  {
+    "id": 16,
+    "name": "Juego de ollas Marquesa",
+    "model": "10 piezas",
+    "category": "Hogar",
+    "spec": "Acero inoxidable · 10 piezas",
+    "description": "Acabado pulido; tapas y asas ergonómicas; fondo difusor; ollas de 2.4, 4.4 y 6.4 L, cacerola 1.5 L y sartén 2 L.",
+    "image": "assets/p16.png"
+  },
+  {
+    "id": 17,
+    "name": "Laptop Lenovo V15",
+    "model": "V15 G5 IRU",
+    "category": "Tecnología",
+    "spec": "Intel Core i3 · 8 GB RAM",
+    "description": "Pantalla 15.6” FHD; Intel Core i3-1315U; RAM DDR5-5200; SSD 256 GB; Intel UHD.",
+    "image": "assets/p17.png"
+  },
+  {
+    "id": 18,
+    "name": "Laptop HP 250",
+    "model": "250 G10",
+    "category": "Tecnología",
+    "spec": "Intel Core i5 · 512 GB SSD",
+    "description": "Pantalla 15.6” HD antirreflejo; i5-1334U; RAM DDR4 8 GB; gráficos Intel UHD.",
+    "image": "assets/p18.png"
+  },
+  {
+    "id": 19,
+    "name": "Impresora Epson EcoTank",
+    "model": "L3250",
+    "category": "Tecnología",
+    "spec": "Multifuncional 3 en 1",
+    "description": "Wi-Fi; cuatro tanques recargables; 5760 × 1440 dpi; escáner y Epson Smart Panel.",
+    "image": "assets/p19.png"
+  },
+  {
+    "id": 20,
+    "name": "Impresora Epson fotográfica",
+    "model": "L8050",
+    "category": "Tecnología",
+    "spec": "EcoTank · 6 colores",
+    "description": "Hasta A4 sin bordes; Wi-Fi Direct; Epson Smart Panel; impresión en CD, DVD y PVC.",
+    "image": "assets/p20.png"
+  },
+  {
+    "id": 21,
+    "name": "Parlante JBL Charge 5",
+    "model": "CHARGE5",
+    "category": "Audio",
+    "spec": "40 W RMS · hasta 20 h",
+    "description": "Bluetooth 5.1; IP67; función power bank; JBL Original Pro Sound y PartyBoost.",
+    "image": "assets/p21.png"
+  },
+  {
+    "id": 22,
+    "name": "Parlante JBL Charge 6",
+    "model": "CHARGE6",
+    "category": "Audio",
+    "spec": "45 W RMS · hasta 24 h",
+    "description": "Bluetooth 5.4; IP68; función power bank; Auracast.",
+    "image": "assets/p22.png"
+  },
+  {
+    "id": 23,
+    "name": "Parlante JBL Flip 7",
+    "model": "FLIP7",
+    "category": "Audio",
+    "spec": "35 W RMS · hasta 16 h",
+    "description": "Bluetooth 5.4; IP68; Auracast; AI Sound Boost; PushLock.",
+    "image": "assets/p23.png"
+  },
+  {
+    "id": 24,
+    "name": "Ventilador circulador",
+    "model": "VCM-1052",
+    "category": "Ventilación",
+    "spec": "12 pulgadas · 3 velocidades",
+    "description": "Diseño compacto y portátil; color negro; circulación de aire.",
+    "image": "assets/p24.png"
+  },
+  {
+    "id": 25,
+    "name": "Ventilador circulador",
+    "model": "VCM-951",
+    "category": "Ventilación",
+    "spec": "12 pulgadas · 3 velocidades",
+    "description": "Color blanco con rejilla frontal y hélice celeste; diseño portátil.",
+    "image": "assets/p25.png"
+  },
+  {
+    "id": 26,
+    "name": "Ventilador circulador",
+    "model": "VCM-952",
+    "category": "Ventilación",
+    "spec": "12 pulgadas · 3 velocidades",
+    "description": "Color blanco con hélice negra; diseño compacto.",
+    "image": "assets/p26.png"
+  }
+]
